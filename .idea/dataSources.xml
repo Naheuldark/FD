@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="userfd@VMSMARTEXCHANGE1" uuid="7239db83-36ef-44c3-a028-63cc97d2d834">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://VMSMARTEXCHANGE1:5432/userfd</jdbc-url>
+    </data-source>
+  </component>
+</project>
